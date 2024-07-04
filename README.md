@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CalendulaAsteraceae
 - 👀 I’m interested in using technology to present information accessibly
 - 🕰️ I spend a lot of time digitizing public-domain works
-- 🌎 I speak English and Spanish fluently, and some Italian
+- 🌎 I speak English and Spanish fluently, plus some Italian and French
 - 🌱 I’m currently learning JavaScript and French
 - 💞️ I’m open to collaborations, but not looking for anything specific right now
 - 📫 How to reach me: email calendula.asteraceae@gmail.com
