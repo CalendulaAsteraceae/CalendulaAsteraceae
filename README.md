@@ -1,4 +1,4 @@
-Hi, I’m @CalendulaAsteraceae!
+Hi, I’m @CalendulaAsteraceae! You can call me Callie, or Mariel.
 - 👀 I’m interested in using technology to present information accessibly, and spend a lot of time digitizing public-domain works.
 - 🌎 I speak English and Spanish fluently, plus some Italian and French
 - 📫 How to reach me: email calendula.asteraceae@gmail.com
