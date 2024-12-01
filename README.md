@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @CalendulaAsteraceae
-- 👀 I’m interested in using technology to present information accessibly
-- 🕰️ I spend a lot of time digitizing public-domain works
+Hi, I’m @CalendulaAsteraceae!
+- 👀 I’m interested in using technology to present information accessibly, and spend a lot of time digitizing public-domain works.
 - 🌎 I speak English and Spanish fluently, plus some Italian and French
-- 💞️ I’m open to collaborations, but not looking for anything specific right now
 - 📫 How to reach me: email calendula.asteraceae@gmail.com
 - 💬 Pronouns: she/her, or whatever you feel like
 - ⚡ Fun fact: I do shuttle lacemaking
